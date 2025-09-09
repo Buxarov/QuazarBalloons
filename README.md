@@ -35,6 +35,17 @@ List
 
 <img width="482" height="58" alt="image" src="https://github.com/user-attachments/assets/89efe947-74f9-41ee-8ad5-1ce591802d3d" />
 
+## 📊 PlaceholderAPI Placeholders
+
+QuazarBalloons es compatible con **PlaceholderAPI**. Puedes usar los siguientes placeholders:
+
+| Placeholder | Description |
+|-------------|-------------|
+| `%balloons_player_points%` | Shows the total points of the player. |
+| `%balloons_player_pickup%` | Shows the number of balloons collected by the player. |
+| `%balloons_points_in_world%` | Shows the total points available in all balloons in the world. |
+| `%balloons_in_world%` | Shows the total number of balloons currently in the world. |
+
 
 ## 🚀 How It Works
 
