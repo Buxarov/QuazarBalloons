@@ -3,6 +3,9 @@
 Add customizable collectible balloons to your server!  
 Players can find them anywhere in the world, shoot them with their bow, and earn **gems 💎** and **points ⭐** when they pop.  
 
+<img width="1005" height="919" alt="image" src="https://github.com/user-attachments/assets/4c4ec233-3640-4b50-a7ac-74d928b37e5f" />
+
+
 ---
 
 ## ✨ Key Features
@@ -16,6 +19,22 @@ Players can find them anywhere in the world, shoot them with their bow, and earn
 - 📊 **PlaceholderAPI support**: display player stats and points in real time.  
 
 ---
+## 💻 Commands
+
+| Command | Description |
+|---------|-------------|
+| `/balloon create <type>` | Creates a new balloon at your location. |
+| `/balloon list` | Lists all active balloons in the world. |
+| `/balloon reset` | Removes all balloons and resets the system. |
+
+Create
+
+<img width="354" height="444" alt="image" src="https://github.com/user-attachments/assets/7d702bc2-8e7e-4f2e-b9a6-5821c4ff2ec4" />
+
+List
+
+<img width="482" height="58" alt="image" src="https://github.com/user-attachments/assets/89efe947-74f9-41ee-8ad5-1ce591802d3d" />
+
 
 ## 🚀 How It Works
 
