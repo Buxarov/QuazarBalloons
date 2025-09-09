@@ -55,6 +55,12 @@ QuazarBalloons es compatible con **PlaceholderAPI**. Puedes usar los siguientes 
 4. When destroyed, the balloon bursts, dropping **gems and points**.  
 5. Collect, compete, and have fun!  
 
+
+
+https://github.com/user-attachments/assets/76fc96e1-ba49-43f4-ac0e-32fa2ef54f71
+
+
+
 ---
 
 ## 🔧 Configuration
